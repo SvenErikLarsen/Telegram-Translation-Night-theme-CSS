@@ -1,5 +1,6 @@
 body.emoji_image {
     background-color: #0E1621;
+    color: #CCCCCC;
 }
 
 header.has-search {
