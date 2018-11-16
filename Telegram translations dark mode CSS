@@ -1,8 +1,3 @@
-#aj_content {
-    color: #ffffff;
-    background-color: #0E1621;
-}
-
 body.emoji_image {
     background-color: #0E1621;
 }
