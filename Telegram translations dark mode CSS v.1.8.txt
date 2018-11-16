@@ -1,0 +1,143 @@
+#aj_content {
+    color: #ffffff;
+    background-color: #0E1621;
+}
+
+body.emoji_image {
+    background-color: #0E1621;
+}
+
+header.has-search {
+    border-color: #ffffff;
+    background-color: #0E1621;
+}
+
+div.header-wrap {
+    background-color: #0E1621;
+}
+
+div.tr-search-field-wrap {
+    color: #ffffff;
+    background-color: #0E1621;
+}
+
+input.form-control.tr-search-field {
+    background-color: #21344f;
+}
+
+span.tr-search-filter.dropdown-toggle {
+    background-color: #1d8be0;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: normal;
+}
+
+a.tr-menu-item {
+    background-color: #0E1621;
+}
+
+span.nav-label {
+    color: #f0f0f0;
+    border-style: none;
+}
+
+div.tr-section-cover.cover_untranslated {
+    border-style: none;
+}
+
+h3.tr-header {
+    background-color: #0E1621;
+}
+
+section.tr-key.clearfix {
+    background-color: #0E1621;
+}
+
+div.input.form-control.tr-form-control.key-add-suggestion-field {
+    color: #ffffff;
+    background-color: #0E1621;
+    border-style: none;
+}
+
+div.tr-key-full-block {
+    background-color: #0E1621;
+}
+
+span.value {
+    color: #ffffff;
+}
+
+div.key-add-suggestion-header {
+    color: #21344f;
+}
+
+button.field-ins-btn {
+    color: #ff00ff;
+}
+
+mark {
+    background: #6f5400;
+    box-shadow: 0 0 0 1px #6f5400;
+}
+
+::selection {
+    background: #ffb7b7;
+}
+
+::-moz-selection {
+    background: #ffb7b7;
+}
+
+.active .tr-menu-item {
+    background: #21344f;
+}
+
+span.diff-btn {
+    color: #000000;
+}
+
+.tr-menu-section-collapsed .tr-menu-header-collapse::after {
+    background-color: #0E1621;
+}
+
+.key-suggestion-collapsed .key-suggestion-collapse:after {
+    background-color: #0E1621;
+}
+
+.tr-menu-header-collapse:after {
+    background-color: #0E1621;
+}
+
+#aj_content header {
+    background-color: #0E1621;
+}
+
+span.tr-languages-name {
+    color: #ffffff;
+}
+
+.tr-header, .tr-header-link, .tr-header-link:hover {
+    color: #ffffff;
+}
+
+.show-diff ins, .show-diff-full ins {
+    background: rgba(0, 125, 0, 0.50)
+;
+}
+
+.show-diff del, .show-diff-full del {
+    background: rgba(255, 0, 0, 0.50);
+}
+
+.key-suggestion-collapse:after {
+    background-color: #0E1621;
+}
+
+.key-suggestion-wrap.highlight {
+    background-color: #0E1621;
+}
+
+header .breadcrumb > .active, header .breadcrumb > .active a {
+    color: #FFFFFF;
+}
+
