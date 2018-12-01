@@ -5,3 +5,5 @@ How to use:
 
 Copy all lines of CSS into a CSS injector plugin for your browser. 
 (I personally use Stylus for Chrome https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+
+<img src="https://i.imgur.com/0gGqIfP.png">
