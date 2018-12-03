@@ -2,7 +2,7 @@
 A CSS mod for night theme on the [Telegram Translations platform](https://translations.telegram.org/)
 
 ### How to use:
-Copy all lines of CSS into a CSS injector plugin for your browser. 
+Copy all lines of the [theme.css](https://github.com/SvenErikLarsen/Telegram-Translation-Night-theme-CSS/blob/master/theme.css) file into a CSS injector plugin for your browser. 
 (I personally use [Stylus for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne))
 
 ### Auto-Update
