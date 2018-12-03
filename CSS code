@@ -33,7 +33,7 @@ header.has-search, div.tr-search-field-wrap  {
     background-color: #0E1621;
 }
 
-div.header-wrap, h3.tr-header, a.tr-menu-item, section.tr-key.clearfix, div.tr-key-full-block, .tr-menu-section-collapsed .tr-menu-header-collapse::after, .key-suggestion-collapsed .key-suggestion-collapse:after, .tr-menu-header-collapse:after, #aj_content header, .key-suggestion-collapse:after, .key-suggestion-wrap.highlight, .popup {
+div.header-wrap, h3.tr-header, a.tr-menu-item, section.tr-key.clearfix, div.tr-key-full-block, .tr-menu-section-collapsed .tr-menu-header-collapse::after, .key-suggestion-collapsed .key-suggestion-collapse:after, .tr-menu-header-collapse:after, #aj_content header, .key-suggestion-collapse:after, .tr-selected-icon:after, .key-suggestion-wrap.highlight, .popup {
     background-color: #0E1621;
 }
 
@@ -98,8 +98,16 @@ mark {
     background: #ffb7b7;
 }
 
-.active .tr-menu-item, a.tr-menu-item:hover, .popup a.tr-languages-result:hover, .popup a.tr-languages-result.default, .popup .selected a.tr-languages-result {
+.active .tr-menu-item, a.tr-menu-item:hover, .popup a.tr-languages-result:hover, .popup a.tr-languages-result.default, .popup .selected a.tr-languages-result, .tr-plain-key-row:hover {
     background: #21344f;
+}
+
+.tr-plain-key-row:hover a:hover > .p-value:before, .tr-plain-key-row:hover a:hover > .pluralized:before, .tr-plain-key-row:hover .comment-text > a:hover:before {
+    background: #2f4768;
+}
+
+.p-value:before, .pluralized:before, .comment-text > a:before {
+    background: #20334E;
 }
 
 span.diff-btn {
@@ -162,8 +170,4 @@ div.tr-search-results {
 
 a.tr-search-result {
     background-color: rgba(49, 52, 62, 0.9)
-}
-
-.comment-deleted-row, .key-suggestion-deleted-row {
-    background: #20334E
 }
