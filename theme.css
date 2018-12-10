@@ -71,7 +71,7 @@ div.tr-section-cover.cover_untranslated {
     border-style: none;
 }
 
-div.input.form-control.tr-form-control.key-add-suggestion-field {
+.screenshot-side-scrollable, div.input.form-control.tr-form-control.key-add-suggestion-field {
     color: #ffffff;
     background-color: #0E1621;
     border-style: none;
@@ -106,8 +106,21 @@ mark {
     background: #2f4768;
 }
 
-.p-value:before, .pluralized:before, .comment-text > a:before {
+.screenshot-key-row.hover, screenshot-key-row.active, .p-value:before, .pluralized:before, .comment-text > a:before {
     background: #20334E;
+}
+
+.screenshot-key-row.hover{
+    border-bottom: 1px solid #20334E;
+    border-top: 1px solid #20334E;
+}
+
+.screenshot-key-row, .screenshot-key-row.hover{
+    border-bottom: 1px solid #20334E;
+}
+
+.screenshot-key-value-default, .key-history-value, .key-suggestion-value, .key-default-value {
+    font-weight: 300;
 }
 
 span.diff-btn {
