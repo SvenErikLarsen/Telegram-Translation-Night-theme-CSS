@@ -33,7 +33,7 @@ header.has-search, div.tr-search-field-wrap  {
     background-color: #0E1621;
 }
 
-div.header-wrap, h3.tr-header, a.tr-menu-item, section.tr-key.clearfix, div.tr-key-full-block, .tr-menu-section-collapsed .tr-menu-header-collapse::after, .key-suggestion-collapsed .key-suggestion-collapse:after, .tr-menu-header-collapse:after, #aj_content header, .key-suggestion-collapse:after, .tr-selected-icon:after, .key-suggestion-wrap.highlight, .popup {
+div.header-wrap, h3.tr-header, a.tr-menu-item, section.tr-key.clearfix, div.tr-key-full-block, .tr-menu-section-collapsed .tr-menu-header-collapse::after, .key-suggestion-collapsed .key-suggestion-collapse:after, .tr-menu-header-collapse:after, #aj_content header, .key-suggestion-collapse:after, .tr-selected-icon:after, .key-suggestion-wrap.highlight, .popup, .tr-share-link-wrap input.tr-share-link {
     background-color: #0E1621;
 }
 
@@ -77,7 +77,7 @@ div.input.form-control.tr-form-control.key-add-suggestion-field {
     border-style: none;
 }
 
-span.value, span.tr-languages-name, .tr-header, .tr-header-link, .tr-header-link:hover, header .breadcrumb > .active, header .breadcrumb > .active a {
+span.value, span.tr-languages-name, .tr-header, .tr-header-link, .tr-header-link:hover, header .breadcrumb > .active, header .breadcrumb > .active a, .tr-section-row .tr-section-caption {
     color: #ffffff;
 }
 
