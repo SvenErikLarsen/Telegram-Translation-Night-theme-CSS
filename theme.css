@@ -207,3 +207,7 @@ a.tr-search-result {
 .comment-deleted-row, .key-suggestion-deleted-row {
     background: #20334E
 }
+
+.comment-text, .comment-author {		
+    color: #fff		
+}
