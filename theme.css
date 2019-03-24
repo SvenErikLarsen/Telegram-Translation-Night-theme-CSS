@@ -184,6 +184,11 @@ div.tr-search-results {
 a.tr-search-result {
     background-color: rgba(49, 52, 62, 0.9)
 }
+
 .comment-deleted-row, .key-suggestion-deleted-row {
     background: #20334E
+}
+
+ .comment-text, .comment-author {	
+    color: #fff	
 }
