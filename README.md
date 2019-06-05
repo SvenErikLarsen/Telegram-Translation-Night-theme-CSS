@@ -12,7 +12,8 @@ You could also copy all the lines from the [theme.css](https://github.com/SvenEr
 
 (I personally use [Stylus for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne))
 
-Visit https://t.me/translationtools for discussion and support.
+### Support and more tools
+Visit https://t.me/translationtools for support and more Translation Platform tools.
 
 ### Showcase
 
